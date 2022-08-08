@@ -1,0 +1,19 @@
+body {
+  background-color: #393E46;
+  text-align: center;
+}
+
+p,h1 {
+  color: #4ECCA3;
+}
+
+
+
+img {
+  width: 70%;
+}
+
+.dice {
+  display: inline-block;
+  padding-top: 10%;
+}
